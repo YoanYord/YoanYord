@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YoanYord
-- 👀 I’m interested in HTML5, CSS3 and JavaScript!
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Python
 - 📫 How to reach me jjordanov39@gmail.com 
 
 <!---
