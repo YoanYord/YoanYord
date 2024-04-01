@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @YoanYord
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Yoan!
+- 🌱 I’m currently learning Javascript!
 - 📫 How to reach me jjordanov39@gmail.com 
