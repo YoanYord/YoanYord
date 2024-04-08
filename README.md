@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Yoan!
-- 🌱 I’m currently learning Javascript!
-- 📫 How to reach me jjordanov39@gmail.com 
+- 📫 How to reach me jjordanov39@gmail.com
+- 👨‍💻 Having fun!
