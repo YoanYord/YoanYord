@@ -21,4 +21,7 @@
 
 #
 👨‍💻 Having fun & trying to git better :) 
+<br>
+### 🎮 CodeWars Stats
+![image](https://www.codewars.com/users/YoanYord/badges/large)
 
