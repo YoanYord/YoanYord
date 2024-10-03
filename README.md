@@ -1,5 +1,6 @@
 <h1>👋 Hi, I’m Yoan!</h1>
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yoan-yordanov-y)
 
 
 ### 🧰 Languages and Tools
