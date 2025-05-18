@@ -2,8 +2,9 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yoan-yordanov-y)
 
-
-### 🧰 Languages and Tools
+---
+Cybersecurity enthusiast | CTF Player | Linux fan
+### Languages and Tools
 
 
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
