@@ -1,6 +1,7 @@
-<h1>👋 Hi, I’m Yoan!</h1>
+<h1>👋 Hi, I’m Yoan! </h1>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yoan-yordanov-y)
+
 
 ---
 Cybersecurity enthusiast | CTF Player | Linux fan
@@ -19,11 +20,10 @@ Cybersecurity enthusiast | CTF Player | Linux fan
 <img align="left" alt="Apple" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
 <img align="left" alt="Flutter" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 
-<br />
+<br/>
 
-#
-👨‍💻 Having fun & trying to git better :) 
-<br>
+
+---
 ### 🎮 CodeWars Stats
 ![image](https://www.codewars.com/users/YoanYord/badges/large)
 
